@@ -1,4 +1,4 @@
 def main():
-print("Raymond Hurst")
+    print(name)
 
-main()
+main("Finn")
